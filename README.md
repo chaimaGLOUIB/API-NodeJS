@@ -1,5 +1,5 @@
-# REST API backend project for indeeddforwomen website
+# REST API backend project 
 
-this is a backend developed with nodejs to expose REST APIS for the indeedforwomen project
+this is a backend developed with nodejs to expose REST APIS
 
 ## Requirements
